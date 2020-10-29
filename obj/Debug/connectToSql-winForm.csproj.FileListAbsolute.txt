@@ -1,0 +1,10 @@
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\bin\Debug\connectToSql-winForm.exe.config
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\bin\Debug\connectToSql-winForm.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\bin\Debug\connectToSql-winForm.pdb
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql-winForm.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql_winForm.Form1.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql_winForm.Properties.Resources.resources
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql-winForm.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql-winForm.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql-winForm.exe
+C:\Users\MZ\Desktop\Desktop-Client-Serveur\connectToSql-winForm\obj\Debug\connectToSql-winForm.pdb
